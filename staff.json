@@ -1,0 +1,54 @@
+﻿{
+  "JBDiwi824": {
+    "currency": "USD",
+    "description": "Great Haircut!",
+    "styleID":  "UPDO",
+    "price": "15"
+
+  },
+  "HIdi28nuDBu": {
+    "currency": "USD",
+    "description": "Great Haircut!",
+    "styleID": "BUZZCUT",
+    "price": "10"
+
+  },
+  "SHidb28IB": {
+    "currency": "USD",
+    "description": "Great Haircut!",
+    "styleID": "HIGH FADE",
+    "price": "15"
+
+  },
+  "IHIDNIW242": {
+    "currency": "USD",
+    "description": "Great Haircut!",
+    "styleID": "LOW FADE",
+    "price": "15"
+
+  },
+
+  "IHdi2424ff": {
+    "currency": "USD",
+    "description": "Great Haircut!",
+    "styleID": "MOWHAWK",
+    "price": "25"
+
+  },
+
+  "Uvdiqi314J": {
+    "currency": "USD",
+    "description": "Great Haircut!",
+    "styleID": "CREW",
+    "price": "20"
+
+  },
+
+  "823HSUbdiq13": {
+    "currency": "USD",
+    "description": "Great Haircut!",
+    "styleID": "BEARD TRIM",
+    "price": "10"
+
+  }
+}

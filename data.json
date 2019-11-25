@@ -1,0 +1,289 @@
+{
+    "Island Design Natural Hair Salon": {
+
+        "businessName": "Islant Design Natural Hair Salon",
+        "address": {
+            "streetAddress": "1410 N 52nd St",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zipCode": 19131
+
+        },
+
+        "number": "215-472-2470",
+        "hours": "10:00 am - 9:00 pm",
+        "ein": "18-42932",
+        "email": "islanddesign@gmail.com",
+        "ownerUid": "199247"
+
+    },
+    "Artiva Hair Salon": {
+        "businessName": "Artiva Hair Salon",
+        "address": {
+            "streetAddress": "217 N 11th St",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zipCode": 19107
+        },
+        "Number": "267 383 1937",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "193742",
+        "Email": "activahairn@gmail.com",
+        "ownerUid": "92753"
+
+    },
+    "Hush Salon": {
+        "businessName": "Hush Salon",
+        "Address": {
+            "Street": "128 N 3rd St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19106
+        },
+        "Number": "267 893 1290",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "64866422",
+        "Email": "hushsalon@gmail.com",
+        "ownerUid": "9896435"
+
+    },
+    "Bobby Mack & Co Hair Salon": {
+        "Address": {
+            "Street": "1944 South St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19146
+        },
+        "Number": "215 289 1102",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "10229472",
+        "Email": "bobbymackn@gmail.com",
+        "ownerUid": "027411"
+    },
+    "Richard Nicholas Hair Studio": {
+        "Address": {
+            "Street": "1716 Samson St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19103
+        },
+        "Number": "215 241 3297",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "867643",
+        "Email": "richardnicholas@gmail.com",
+        "ownerUid": "97974"
+
+    },
+
+    "Andre Richard Salon": {
+        "Address": {
+            "Street": "130 Chestnut St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19106
+        },
+        "Number": "215 728 1126",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "9716212",
+        "Email": "andrerich@gmail.com",
+        "ownerUid": "102871"
+
+    },
+
+    "Platinum Hair Co": {
+        "Address": {
+            "Street": "909 Race St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19107
+        },
+        "Number": "215 876 8821",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "387291",
+        "Email": "platinumhairs@gmail.com",
+        "ownerUid": "192874"
+
+    },
+
+    "Salon Expression": {
+        "Address": {
+            "Street": "7109 Ridge Ave",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19128
+        },
+        "Number": "215 273 1837",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "8193741",
+        "Email": "salonexpress@gmail.com",
+        "ownerUid": "293741"
+
+    },
+
+    "Perfect Cut Hair Salon": {
+        "Address": {
+            "Street": "909 Race St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19107
+        },
+        "Number": "215 924 1029",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "839284",
+        "Email": "perfectcut@gmail.com",
+        "ownerUid": "39292"
+
+    },
+
+    "Volume Hair Studio": {
+        "Address": {
+            "Street": "19 N 3rd St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19106
+        },
+        "Number": "215 234 2917",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "102942",
+        "Email": "volumehairs@gmail.com",
+        "ownerUid": "129424"
+
+    },
+
+    "Kevins Beauty Salon": {
+        "Address": {
+
+            "Street": "52 N 9th St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip code": 19107
+        },
+
+        "Number": "267 297 1083",
+        "Hours": "10:00 am - 9:00 pm",
+        "ein": "192842",
+        "Email": "kevinbeauty@gmail.com",
+        "ownerUid": "182749"
+
+    },
+    "Ground Zero Hair Salon": {
+        "Address": "4167 Main St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip code": 19127,
+        "Number": "267 941 1130"
+    },
+    "Nbeauty Inc Hair Salon": {
+        "Address": "3933 Ridge Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip code": 19132,
+        "Number": "215 840 3721"
+    },
+    "DeCarlo Hair Salon": {
+        "Address": "1722 Sansom St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip code": 19103,
+        "Number": "267 391 4018"
+    },
+    "Robert Michaels Salon": {
+        "Address": "129 W King St",
+        "City": "Malvern",
+        "State": "PA",
+        "Zip code": 19355,
+        "Number": "215 309 4451"
+    },
+    "Salon 3 East": {
+        "Address": "412 E King St",
+        "City": "Malvern",
+        "State": "PA",
+        "Zip code": 19355,
+        "Number": "267 104 0391"
+    },
+    "Hair Cuttery": {
+        "Address": "50 National Avenue",
+        "City": "Malvern",
+        "State": "PA",
+        "Zip code": 19355,
+        "Number": "267 391 5083"
+    },
+    "Hair Express": {
+        "Address": "134 Lancaster Avenue",
+        "City": "Malvern",
+        "State": "PA",
+        "Zip code": 19355,
+        "Number": "215 488 1381"
+    },
+    "Style Masters Salon": {
+        "Address": "549 Lancaster Avenue",
+        "City": "Malvern",
+        "State": "PA",
+        "Zip code": 19355,
+        "Number": "215 732 1937"
+    },
+    "Avante Salon": {
+        "Address": "668 Downingtown Pike",
+        "City": "West Chester",
+        "State": "PA",
+        "Zip code": 19380,
+        "Number": "267 289 4721"
+    },
+    "The Refinery Hair Studio": {
+        "Address": "106 W Market St",
+        "City": "West Chester",
+        "State": "PA",
+        "Zip code": 19382,
+        "Number": "267 439 2015"
+    },
+    "Balance Hair Spa Studio": {
+        "Address": "150 E Gay St",
+        "City": "West Chester",
+        "State": "PA",
+        "Zip code": 19380,
+        "Number": "215 391 4082"
+    },
+    "Harpo's Hair Salon": {
+        "Address": "160 N Gulph Road",
+        "City": "King of Prussia",
+        "State": "PA",
+        "Zip code": 19406,
+        "Number": "215 442 1492"
+    },
+    "Tantra Hair Salon": {
+        "Address": "180 Town Center Rd",
+        "City": "King of Prussia",
+        "State": "PA",
+        "Zip code": 19406,
+        "Number": "267 391 3819"
+    },
+    "Stands Hair Salon": {
+        "Address": "2000 Valley Forge Cir #139",
+        "City": "King of Prussia",
+        "State": "PA",
+        "Zip code": 19406,
+        "Number": "215 401 2941"
+    },
+    "Salon Manivanh": {
+        "Address": "213 Easton Rd",
+        "City": "Willow Grove",
+        "State": "PA",
+        "Zip code": 19090,
+        "Number": "267 914 3818"
+    },
+    "JJ Hair SalonÂ": {
+        "Address": "43 Easton Rd",
+        "City": "Willow Grove",
+        "State": "PA",
+        "Zip code": 19090,
+        "Number": "215 395 5814"
+    },
+    "Glam FX Salon": {
+        "Address": "405 W Moreland Rd",
+        "City": "Willow Grove",
+        "State": "PA",
+        "Zip code": 19090,
+        "Number": "215 494 1885"
+    }
+}
+    

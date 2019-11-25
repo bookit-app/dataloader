@@ -1,0 +1,235 @@
+[
+        "Jeremy Smith": {
+            "First Name": "Jeremy",
+            "Last Name": "Smith",
+            "Birthday": "10/23/92",
+            "Email": "jeremy28@gmail.com",
+            "Gender": "M",
+            "Phone Number": "215 738 9293"
+        },
+
+  {
+    "First Name": "John",
+    "Last Name": "Jacobs",
+    "Birthday": "3/10/80",
+    "Email": "jacobs@gmail.com",
+    "Gender": "M",
+    "Phone Number": "283 921 9392"
+  },
+  {
+    "First Name": "Alexander",
+    "Last Name": "Ross",
+    "Birthday": "5/29/95",
+    "Email": "rossalex@gmail.com",
+    "Gender": "M",
+    "Phone Number": "394 992 1623"
+  },
+  {
+    "First Name": "Jessica",
+    "Last Name": "Hoffman",
+    "Birthday": "3/12/00",
+    "Email": "hoffjess@gmail.com",
+    "Gender": "F",
+    "Phone Number": "384 292 1837"
+  },
+  {
+    "First Name": "Samantha",
+    "Last Name": "Rhye",
+    "Birthday": "2/4/87",
+    "Email": "samrhye@gmail.com",
+    "Gender": "F",
+    "Phone Number": "267 173 4821"
+  },
+  {
+    "First Name": "Gabrielle",
+    "Last Name": "Woods",
+    "Birthday": "12/14/98",
+    "Email": "gabwood@gmail.com",
+    "Gender": "F",
+    "Phone Number": "394 204 4910"
+  },
+  {
+    "First Name": "Ross",
+    "Last Name": "Stevens",
+    "Birthday": "2/13/93",
+    "Email": "steveross@gmail.com",
+    "Gender": "M",
+    "Phone Number": "934 293 1039"
+  },
+  {
+    "First Name": "Bradley",
+    "Last Name": "Gunn",
+    "Birthday": "1/30/90",
+    "Email": "bradgunn@gmail.com",
+    "Gender": "M",
+    "Phone Number": "394 102 3941"
+  },
+  {
+    "First Name": "Lauren",
+    "Last Name": "Jones",
+    "Birthday": "10/18/01",
+    "Email": "joneslauren@gmail.com",
+    "Gender": "F",
+    "Phone Number": "215 462 9023"
+  },
+  {
+    "First Name": "Anna",
+    "Last Name": "Rose",
+    "Birthday": "4/14/94",
+    "Email": "roseanna@gmail.com",
+    "Gender": "F",
+    "Phone Number": "215 491 4719"
+  },
+  {
+    "First Name": "William",
+    "Last Name": "Norton",
+    "Birthday": "9/20/79",
+    "Email": "willnort@gmail.com",
+    "Gender": "M",
+    "Phone Number": "394 293 8371"
+  },
+  {
+    "First Name": "Steve",
+    "Last Name": "Stark",
+    "Birthday": "7/13/87",
+    "Email": "stevestark@gmail.com",
+    "Gender": "M",
+    "Phone Number": "298 247 8382"
+  },
+  {
+    "First Name": "Natasha",
+    "Last Name": "Porta",
+    "Birthday": "3/10/69",
+    "Email": "natporta@gmail.com",
+    "Gender": "F",
+    "Phone Number": "833 193 2834"
+  },
+  {
+    "First Name": "Anthony",
+    "Last Name": "Porillo",
+    "Birthday": "4/13/92",
+    "Email": "tonypor@gmail.com",
+    "Gender": "M",
+    "Phone Number": "267 801 2934"
+  },
+  {
+    "First Name": "Dom",
+    "Last Name": "Terreto",
+    "Birthday": "11/14/89",
+    "Email": "domterr@gmail.com",
+    "Gender": "M",
+    "Phone Number": "491 194 9014"
+  },
+  {
+    "First Name": "Lisa",
+    "Last Name": "Jackson",
+    "Birthday": "3/14/78",
+    "Email": "jacklisa@gmail.com",
+    "Gender": "F",
+    "Phone Number": "301 491 8481"
+  },
+  {
+    "First Name": "Tiffany",
+    "Last Name": "Hart",
+    "Birthday": "2/14/99",
+    "Email": "tiffhart@gmail.com",
+    "Gender": "F",
+    "Phone Number": "194 339 3101"
+  },
+  {
+    "First Name": "Elizabeth",
+    "Last Name": "Long",
+    "Birthday": "8/19/00",
+    "Email": "lizlong@gmail.com",
+    "Gender": "F",
+    "Phone Number": "942 582 0528"
+  },
+  {
+    "First Name": "Scarlett",
+    "Last Name": "Parker",
+    "Birthday": "5/20/96",
+    "Email": "parkscar@gmail.com",
+    "Gender": "F",
+    "Phone Number": "259 104 1442"
+  },
+  {
+    "First Name": "Nicholas",
+    "Last Name": "Downey",
+    "Birthday": "9/14/94",
+    "Email": "nickdowney@gmail.com",
+    "Gender": "M",
+    "Phone Number": "935 185 3950"
+  },
+  {
+    "First Name": "Tom",
+    "Last Name": "Goldstein",
+    "Birthday": "2/16/92",
+    "Email": "tomgold@gmail.com",
+    "Gender": "M",
+    "Phone Number": "491 941 4712"
+  },
+  {
+    "First Name": "Linda",
+    "Last Name": "Rappaport",
+    "Birthday": "1/10/88",
+    "Email": "linarap@gmail.com",
+    "Gender": "F",
+    "Phone Number": "925 193 1948"
+  },
+  {
+    "First Name": "Amber",
+    "Last Name": "Holland",
+    "Birthday": "9/30/90",
+    "Email": "amberholland@gmail.com",
+    "Gender": "F",
+    "Phone Number": "394 104 1825"
+  },
+  {
+    "First Name": "Nicole",
+    "Last Name": "Alexander",
+    "Birthday": "2/18/68",
+    "Email": "nicolealex@gmail.com",
+    "Gender": "F",
+    "Phone Number": "491 598 3015"
+  },
+  {
+    "First Name": "Jackson",
+    "Last Name": "Bashir",
+    "Birthday": "7/14/00",
+    "Email": "jackbash@gmail.com",
+    "Gender": "M",
+    "Phone Number": "291 402 4844"
+  },
+  {
+    "First Name": "Brenda",
+    "Last Name": "Johnson",
+    "Birthday": "9/9/99",
+    "Email": "brendajohn@gmail.com",
+    "Gender": "F",
+    "Phone Number": "194 385 1431"
+  },
+  {
+    "First Name": "Erica",
+    "Last Name": "Lentcher",
+    "Birthday": "11/15/95",
+    "Email": "lentchereerica@gmail.com",
+    "Gender": "F",
+    "Phone Number": "249 104 4891"
+  },
+  {
+    "First Name": "Alexis",
+    "Last Name": "Fletcher",
+    "Birthday": "10/23/86",
+    "Email": "fleetchalex@gmail.com",
+    "Gender": "F",
+    "Phone Number": "291 364 3817"
+  },
+  {
+    "First Name": "Ariana",
+    "Last Name": "Wentz",
+    "Birthday": "12/4/85",
+    "Email": "wentzariana@gmail.com",
+    "Gender": "F",
+    "Phone Number": "215 899 1827"
+  }
+]
